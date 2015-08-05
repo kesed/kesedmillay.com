@@ -50,3 +50,33 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+// Basic styles
+.right {
+  float: right;
+}
+
+
+// Masthead container styles
+.masthead-container {
+    background: #D15D24;
+    width: 100%;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  padding: 10px 5px;
+}
+
+.nav-primary ul li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.nav-primary ul li a {
+  color: #F5F0EB;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
