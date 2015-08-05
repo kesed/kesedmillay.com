@@ -1,0 +1,11 @@
+# Site settings
+title: Kesed Millay
+email: hello@kesedmillay.com
+description: > # this means to ignore newlines until "baseurl:"
+Hello! I’m Kesed Millay. I’m a front-end developer passionate about crafting meaningful experiences on the web.
+baseurl: "/kesedmillay.com" # the subpath of your site, e.g. /blog/
+twitter_username: kesedmillay
+github_username:  kesed
+
+# Build settings
+markdown: kramdown
