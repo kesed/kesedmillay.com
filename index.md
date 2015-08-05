@@ -3,9 +3,4 @@ layout: default
 title: Home
 ---
 
-Is this thing on?<br>
-Yes sir, it is!<br>
-Third update.<br>
-Fourth times the charm.<br>
-How about fifth?<br>
-This is testing a local change.
+Hello! I’m Kesed Millay. I’m a front-end developer passionate about crafting meaningful experiences on the web.
