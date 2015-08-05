@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 Is this thing on?<br>
 Yes sir, it is!<br>
 Third update.<br>
