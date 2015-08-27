@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About | Kesed Millay
+layout: page
+title: About
 ---
 Hello, I’m Kesed. I’ve been experimenting with the web since the days of Netscape Browser, Macromedia Flash and Adobe GoLive. While those tools have long been retired, they served as the spark that fueled my fondness for the web.
 
