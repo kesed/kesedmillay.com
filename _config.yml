@@ -1,4 +1,7 @@
 title: Kesed Millay
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: /kesedmillay.com
+
+# Outputting
+permalink: /:categories/:title.html

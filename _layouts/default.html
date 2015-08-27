@@ -1,10 +1,15 @@
 {% include header.html %}
-    <div class="masthead-container">
-    <a href="{{ site.baseurl }}/"><img class="logo left" src="{{ site.baseurl }}/images/logo-sepia.png" alt="Kesed Millay"></a>
-    {% include nav.html %}
+    <div class="masthead">
+      <div class="masthead-container">
+        <a href="{{ site.baseurl }}/"><img class="logo left" src="{{ site.baseurl }}/assets/logo-sepia.png" alt="Kesed Millay"></a>
+        {% include nav.html %}
+      </div>
     </div>
-
-    <h1>{{ page.title }}</h1>
-    {{ content }}
-
+    <div class="main-content">
+      {% if page.url == "/index.html" %}
+        {{ content }}
+      {% else %}
+        {{ content }}
+      {% endif %}
+    </div>
 {% include footer.html %}
