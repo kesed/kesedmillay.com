@@ -46,12 +46,13 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+        //"base",
+        //"layout",
+        //"syntax-highlighting"
 ;
 
 // Basic styles
+
 .right {
   float: right;
 }
@@ -120,6 +121,10 @@ footer {
   width: 95%;
   max-width: 1200px;
   margin: 0 auto;
+}
+
+.main-content {
+  background: #F5F0EB;
 }
 
 // Homepage styles
