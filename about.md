@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Hello, I’m Kesed. I’ve been experimenting with the web since the days of Netscape Browser, Macromedia Flash and Adobe GoLive. While those tools have long been retired, they served as the spark that fueled my fondness for the web.
+Hello, I’m Kesed. I’ve been experimenting with the web since the days of Netscape Browser, Macromedia Flash and Adobe GoLive. Those tools have long been retired but they served as the spark that fueled my fondness for the web.
 
 In 2012, I graduated college and began working as the Web Services Manager and Lead Web Developer for CTSi. After a few years of client services, I joined MudLOVE and am currently working as their in-house web developer.
 
