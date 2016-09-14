@@ -61,6 +61,7 @@ body {
   background: #F0E9E1;
   // background: #F5F0EB;
   font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .footer-container {
@@ -86,6 +87,10 @@ footer {
   visibility: hidden;
 }
 
+a, a:visited {
+  color: #D15D24;
+}
+
 // Masthead styles
 .masthead {
   background: #D15D24;
@@ -93,7 +98,7 @@ footer {
 }
 
 .masthead-container {
-  width: 95%;
+  width: 90%;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -112,7 +117,7 @@ footer {
 .nav-primary ul li a {
   color: #F5F0EB;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 600;
   text-transform: uppercase;
 }
 
@@ -125,14 +130,21 @@ footer {
 
 .main-content {
   background: #F5F0EB;
-  padding: 1.5em 0;
+
+}
+
+.main-content.layout-default {
+  padding: 2em 0;
 }
 
 // Homepage styles
 .intro p {
   font-size: 26px;
-  padding: 25px 0;
   margin: 0;
+}
+
+.panel {
+  padding: 2.5em 0;
 }
 
 .panel.intro {
@@ -143,8 +155,15 @@ footer {
   background: #F5F0EB;
 }
 
+.latest-work h1 {
+  margin: 0;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 2.5em;
+}
+
 .panel-container, .post {
-  width: 95%;
+  width: 90%;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -187,4 +206,11 @@ ul.portfolio-grid li {
 .portfolio-grid img {
   width: 300px;
   height: 100%;
+}
+
+// Page Styles
+.post-title {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 2.5em;
 }
