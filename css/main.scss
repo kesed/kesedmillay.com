@@ -62,6 +62,7 @@ body {
   // background: #F5F0EB;
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
+  color: #4C4946;
 }
 
 .footer-container {
@@ -79,6 +80,7 @@ footer {
   background: #F0E9E1;
 }
 
+/*
 .footer::after {
   content: ".";
   display: block;
@@ -86,6 +88,7 @@ footer {
   clear: both;
   visibility: hidden;
 }
+*/
 
 a, a:visited {
   color: #D15D24;
@@ -139,7 +142,7 @@ a, a:visited {
 
 // Homepage styles
 .intro p {
-  font-size: 26px;
+  font-size: 24px;
   margin: 0;
 }
 
@@ -162,7 +165,7 @@ a, a:visited {
   font-size: 2.5em;
 }
 
-.panel-container, .post {
+.panel-container, .page {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
@@ -209,8 +212,21 @@ ul.portfolio-grid li {
 }
 
 // Page Styles
-.post-title {
+.page-title {
   font-weight: 900;
   text-transform: uppercase;
   font-size: 2.5em;
+}
+
+// Blog Styles
+.blog-container ul {
+  margin: 0;
+}
+
+.blog-container ul li {
+  list-style: none;
+}
+
+.blog-container .post-title {
+  margin: 0;
 }

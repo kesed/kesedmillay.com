@@ -1,0 +1,17 @@
+---
+layout: page
+title: Blog
+---
+<div class="blog-container">
+  <ul>
+    {% for post in site.categories.blog %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h3 class="post-title">{{ post.title }}</h3>
+        </a>
+        <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
