@@ -1,0 +1,4 @@
+@media (max-width : 568px) {
+  .nav-primary ul li {padding: 25px 0 0 5px;}
+  .nav-primary ul li a {font-size: 14px;}
+}

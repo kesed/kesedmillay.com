@@ -1,15 +1,6 @@
 {% include header.html %}
-    <div class="masthead">
-      <div class="masthead-container">
-        <a href="{{ site.baseurl }}/"><img class="logo left" src="{{ site.baseurl }}/assets/logo-sepia.png" alt="Kesed Millay"></a>
-        {% include nav.html %}
-      </div>
-    </div>
-    <div class="main-content layout-home">
-      {% if page.url == "/index.html" %}
-        {{ content }}
-      {% else %}
-        {{ content }}
-      {% endif %}
-    </div>
+{% include masthead.html %}
+  <div class="main-content layout-home">
+    {{ content }}
+  </div>
 {% include footer.html %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: Getting Started With Jekyll
 category: blog
 thumbnail: /assets/.png
 ---

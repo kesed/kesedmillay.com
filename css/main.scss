@@ -98,6 +98,7 @@ a, a:visited {
 .masthead {
   background: #D15D24;
   width: 100%;
+  overflow: auto;
 }
 
 .masthead-container {
@@ -234,4 +235,9 @@ ul.portfolio-grid li {
 
 .page-content {
   padding: 0;
+}
+
+// Portfolio Styles
+.main-content.layout-portfolio {
+  padding: 2em 0;
 }
