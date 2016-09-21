@@ -3,4 +3,4 @@ highlighter: rouge
 baseurl: /kesedmillay.com
 
 # Outputting
-permalink: /:categories/:title.html
+permalink: /:categories/:title
