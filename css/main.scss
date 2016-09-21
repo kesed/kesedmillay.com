@@ -165,7 +165,7 @@ a, a:visited {
   font-size: 2.5em;
 }
 
-.panel-container, .page {
+.panel-container, .page, .post {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
@@ -229,4 +229,9 @@ ul.portfolio-grid li {
 
 .blog-container .post-title {
   margin: 0;
+  font-size: 1.8em;
+}
+
+.page-content {
+  padding: 0;
 }
