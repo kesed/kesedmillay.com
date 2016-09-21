@@ -1,6 +1,6 @@
 title: Kesed Millay
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 baseurl: /kesedmillay.com
 
 # Outputting
