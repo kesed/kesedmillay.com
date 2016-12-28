@@ -1,6 +1,6 @@
 title: Kesed Millay
 highlighter: rouge
-baseurl: /kesedmillay.com
+baseurl: /
 
 # Outputting
 permalink: /:categories/:title
