@@ -4,8 +4,6 @@ title: About
 ---
 Hello, I’m Kesed. I’ve been experimenting with the web since the days of Netscape Browser, Macromedia Flash and Adobe GoLive. Those tools have long been retired but they served as the spark that fueled my fondness for the web.
 
-In 2012, I graduated college and began working as the Web Services Manager and Lead Web Developer for CTSi. After a few years of client services, I joined MudLOVE and am currently working as their in-house web developer.
-
 I’m passionate about crafting responsive and intuitive user experiences that function seamlessly across devices and platforms. I’m addicted to quality and have a penchant for details.
 
 When I’m not contributing to the web you can find me building furniture, reading Calvin and Hobbes, trying international foods, painting with watercolors or camping in the great outdoors.
